@@ -1,0 +1,3 @@
+# Ignorer tous les fichiers .txt
+*.txt
+*.parquet
